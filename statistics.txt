@@ -1,0 +1,3 @@
+Right Words: 2
+Wrong Words: 1
+Percentage of Right words: 0.666667
